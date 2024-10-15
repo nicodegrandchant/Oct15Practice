@@ -1,2 +1,3 @@
 # Oct15Practice
-Github practice.
+
+This is my first repo and we practiced making branches.
