@@ -1,4 +1,3 @@
-# Oct15Practice
+# SDS 313
 
-This is my first repo and we practiced making branches.
-I am making a new change SIUUUUUU!!!
+This is my first repo and practice.
